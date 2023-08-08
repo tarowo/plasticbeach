@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest xmlns="http://apple.com/itunes/media_archive/manifest" version="1.0" media_archive_version="1.0" media_archive_build_number="4164">
+    <!-- Playlist Title: Plastic Beach -->
+    <!-- Playlist Adam ID: 358065309 -->
+    <requirements>
+        <supported_platforms>
+            <platform name="iTunes" minimum_version="9.0"/>
+            <platform name="AppleTV" minimum_version="3.0"/>
+        </supported_platforms>
+    </requirements>
+    <library_items>
+        <library_item type="song" local_id="vol001_tr001" xid="EMI:isrc:GBAYE1000001" name="Orchestral Intro (feat. sinfonia ViVA)"/>
+        <library_item type="song" local_id="vol001_tr002" xid="EMI:isrc:GBAYE1000004" name="Welcome to the World of the Plastic Beach (feat. Snoop Dogg &amp; Hypnotic Brass Ensemble)"/>
+        <library_item type="song" local_id="vol001_tr003" xid="EMI:isrc:GBAYE1000005" name="White Flag (feat. Bashy, Kano &amp; The National Orchestra for Arabic Music)"/>
+        <library_item type="song" local_id="vol001_tr004" xid="EMI:isrc:GBAYE1000017" name="Rhinestone Eyes"/>
+        <library_item type="song" local_id="vol001_tr005" xid="EMI:isrc:GBAYE0903021" name="Stylo (feat. Mos Def &amp; Bobby Womack)"/>
+        <library_item type="song" local_id="vol001_tr006" xid="EMI:isrc:GBAYE1000006" name="Superfast Jellyfish (feat. Gruff Rhys &amp; De La Soul)"/>
+        <library_item type="song" local_id="vol001_tr007" xid="EMI:isrc:GBAYE1000007" name="Empire Ants (feat. Little Dragon)"/>
+        <library_item type="song" local_id="vol001_tr008" xid="EMI:isrc:GBAYE1000008" name="Glitter Freeze (feat. Mark E Smith)"/>
+        <library_item type="song" local_id="vol001_tr009" xid="EMI:isrc:GBAYE1000009" name="Some Kind of Nature (feat. Lou Reed)"/>
+        <library_item type="song" local_id="vol001_tr010" xid="EMI:isrc:GBAYE1000010" name="On Melancholy Hill"/>
+        <library_item type="song" local_id="vol001_tr011" xid="EMI:isrc:GBAYE1000011" name="Broken"/>
+        <library_item type="song" local_id="vol001_tr012" xid="EMI:isrc:GBAYE1000016" name="Sweepstakes (feat. Mos Def &amp; Hypnotic Brass Ensemble)"/>
+        <library_item type="song" local_id="vol001_tr013" xid="EMI:isrc:GBAYE1000012" name="Plastic Beach (feat. Mick Jones &amp; Paul Simonon)"/>
+        <library_item type="song" local_id="vol001_tr014" xid="EMI:isrc:GBAYE1000013" name="To Binge (feat. Little Dragon)"/>
+        <library_item type="song" local_id="vol001_tr015" xid="EMI:isrc:GBAYE1000014" name="Cloud of Unknowing (feat. Bobby Womack &amp; sinfonia ViVA)"/>
+        <library_item type="song" local_id="vol001_tr016" xid="EMI:isrc:GBAYE1000015" name="Pirate Jet"/>
+        <library_item type="song" local_id="vol001_tr017" xid="EMI:isrc:GBAYE1000079" name="Pirate's Progress"/>
+        <library_item type="song" local_id="vol001_tr018" xid="EMI:isrc:GBAYE1000120" name="Three Hearts, Seven Seas, Twelve Moons"/>
+        <library_item type="video" local_id="vol002_tr001" xid="EMI:isrc:GB0400900183" name="Stylo (feat. Mos Def &amp; Bobby Womack)"/>
+    </library_items>
+</manifest>
